@@ -2,6 +2,8 @@
 
 Project aimed at bettering React skils of SOVY students.
 
+React emotion: https://emotion.sh/docs/styled
+
 In the project directory, you can run:
 
 ### `npm start`
