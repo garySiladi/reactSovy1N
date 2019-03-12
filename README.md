@@ -1,6 +1,6 @@
 # REACT SOVY 1N
 
-Project aimed at bettering React skils of SOVY students.
+Project aimed at bettering React skils of SOVY students. 
 
 React emotion: https://emotion.sh/docs/styled
 
