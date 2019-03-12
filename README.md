@@ -4,6 +4,8 @@ Project aimed at bettering React skils of SOVY students.
 
 React emotion: https://emotion.sh/docs/styled
 
+API: https://swapi.co
+
 In the project directory, you can run:
 
 ### `npm start`
